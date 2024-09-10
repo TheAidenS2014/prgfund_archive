@@ -1,0 +1,48 @@
+//
+// Aiden Sayre (A00553448)
+// Last modified 3/19/2024
+//
+// <wip>
+//
+
+#include <iostream>
+#include <ctime>
+#include <cmath>
+
+using namespace std;
+
+// var
+int userInput, userInput_old, guessCounter = 0, randNum;
+
+// func
+/*int goRandom(int randSeed)
+{
+	srand(time(0)) % 100 + 1
+}*/
+
+int main()
+{
+	// call random number here
+	randNum = 12;
+	cout << "I'm thinking of a number between 0 and 100. Can you guess it?";
+
+	do {
+		userInput_old = userInput;
+		cout << "\n> ";
+		cin >> userInput;
+
+		if (userInput > randNum)
+			cout << "Nope! Too high!";
+		if (userInput < randNum)
+			cout << "Nope! Too low!";
+
+		guessCounter++;
+	} while (userInput != randNum && isdigit(userInput)); // todo: catch letters
+
+	cout << "Yeah, that's it!\n";
+	cout << randNum << endl;
+	cout << userInput << endl;
+	cout << userInput_old << endl;
+	cout << guessCounter << endl;
+
+}
