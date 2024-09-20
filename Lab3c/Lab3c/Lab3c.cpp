@@ -86,3 +86,5 @@ int main()
 
 	return 0; // finish!
 }
+
+// © 2024 TheAidenS2014

@@ -190,3 +190,5 @@ int main()
 
 	return 0;
 }
+
+// © 2024 TheAidenS2014

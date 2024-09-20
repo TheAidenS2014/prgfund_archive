@@ -111,3 +111,5 @@ int main()
 
 	return 0; // finish! [EXIT]
 }
+
+// © 2024 TheAidenS2014

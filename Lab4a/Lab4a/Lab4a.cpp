@@ -41,3 +41,5 @@ int main()
 	cout << "\nIf something seems incorrect about these numbers, please review your inputted values and try again.\n"; // covering my bases
 	return 0; // finish!
 }
+
+// © 2024 TheAidenS2014

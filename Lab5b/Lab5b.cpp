@@ -55,3 +55,5 @@ int main()
 	cout << endl;
 	return 0;
 }
+
+// © 2024 TheAidenS2014

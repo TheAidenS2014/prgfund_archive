@@ -16,7 +16,7 @@ using namespace std;
 #include <iomanip>
 
 const int FULLNAMES_XSIZE = 3, // not necessary,
-FULLNAMES_YSIZE = 5; // but handy
+		  FULLNAMES_YSIZE = 5; // but handy
 string fullNames[FULLNAMES_YSIZE][FULLNAMES_XSIZE]
 {
 	// first,  middle,		 last
@@ -66,3 +66,5 @@ int main()
 
 	return 0; // finish!
 }
+
+// © 2024 TheAidenS2014

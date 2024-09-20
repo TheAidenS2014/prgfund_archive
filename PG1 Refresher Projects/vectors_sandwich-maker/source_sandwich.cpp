@@ -72,3 +72,5 @@ int main()
 	cout << "Alright! That'll be $10.19. Cash or card?" << endl;
 	return 0; // finish! [EXIT PROGRAM]
 }
+
+// © 2024 TheAidenS2014

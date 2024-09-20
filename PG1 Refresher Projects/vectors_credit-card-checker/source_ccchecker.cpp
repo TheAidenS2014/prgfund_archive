@@ -88,3 +88,5 @@ int main()
 
 	return 0; // finish! [EXIT PROGRAM]
 }
+
+// © 2024 TheAidenS2014
