@@ -1,5 +1,5 @@
 //
-// Aiden Sayre (A00553448)
+// TheAidenS2014
 // Last modified 3/19/2024
 //
 // <wip>
@@ -46,3 +46,5 @@ int main()
 	cout << guessCounter << endl;
 
 }
+
+// © 2024 TheAidenS2014
