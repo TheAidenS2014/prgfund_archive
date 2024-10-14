@@ -19,3 +19,4 @@ Most labs have a description in the source file as to their purpose.
 | Lab8a | _Array number storage and analysis_ |
 | Lab9a | _Store the date with a struct_ |
 | Lab10a | _Record inventory with an external class file_ |
+| Lab10b | _Point, Rectangle, and Cube classes_ |

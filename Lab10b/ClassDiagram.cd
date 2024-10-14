@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cube">
+    <Position X="6.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAABAAIAAAAAEAAAAAAAACAAAg=</HashCode>
+      <FileName>Lab10b_ShapeDetails.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point">
+    <Position X="4" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAAgAgAAEAEAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Lab10b_ShapeDetails.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle">
+    <Position X="9" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAABABCAAAEAAAAQEAAAAAAAAAgAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Lab10b_ShapeDetails.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
