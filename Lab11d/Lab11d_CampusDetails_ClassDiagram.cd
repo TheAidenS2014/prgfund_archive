@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Student">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAAIBQAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAIAA=</HashCode>
+      <FileName>Lab11d_CampusDetails.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teacher">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAACIAAAAAAAAAACIAAAAAAAIAAAAAAAAAIA=</HashCode>
+      <FileName>Lab11d_CampusDetails.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolClass">
+    <Position X="10.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAABIAAEAAAEAAAAACIAAAAAEAAAQAAAQAAAIA=</HashCode>
+      <FileName>Lab11d_CampusDetails.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="subjectTeacher" />
+      <Field Name="registeredStudent" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Campus">
+    <Position X="4.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Lab11d_CampusDetails.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="officialClass" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="std::vector&lt;_Ty, _Alloc&gt;" Collapsed="true">
+    <Position X="7.25" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>A2AAEYEiAbLsCEBAAONYMAkWM0UARBIggQkwghAFQko=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Person">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lab11d_CampusDetails.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
